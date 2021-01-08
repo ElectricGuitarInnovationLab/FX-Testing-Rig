@@ -36,8 +36,10 @@ Whatever is best for your workflow, check these presets, then make any tweaks yo
 ### Setup your computer to compile to the Daisy Hardware
 
 - Install the Daisy Toolchain for 
--  [https://github.com/electro-smith/DaisyWiki/wiki/1c.-Installing-the-Toolchain-on-Windows Windows] or
--  [https://github.com/electro-smith/DaisyWiki/wiki/1b.-Installing-the-Toolchain-on-Mac Mac]
+ - on Windows
+  - https://github.com/electro-smith/DaisyWiki/wiki/1c.-Installing-the-Toolchain-on-Windows Windows
+ - on Mac
+  - https://github.com/electro-smith/DaisyWiki/wiki/1b.-Installing-the-Toolchain-on-Mac
    - First install Homebrew package manager
     - On your Mac, open Terminal (in ''Applications>Utilities'')
     - copy and run the command<code>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</code>
@@ -47,7 +49,8 @@ Whatever is best for your workflow, check these presets, then make any tweaks yo
     - from Terminal, run <code>brew install make armmbed/formulae/arm-none-eabi-gcc dfu-util</code>
      - when the install is complete, you can close Terminal with it prompting you to wait
 - Install [http://cycling74.com Max 8 or later]
-- Download the Oopsy Package [https://github.com/electro-smith/oopsy/releases/latest/download/oopsy.zip here]
+- Download the Oopsy Package
+  - https://github.com/electro-smith/oopsy/releases/latest/download/oopsy.zip
   - Unzip and copy the ''oopsy'' folder here: 
     - <code>C:\Users\YourUserName\Documents\Max 8\Packages</code> on Windows
     - <code>~/Documents/Max 8/Packages/</code> on Mac OS X
