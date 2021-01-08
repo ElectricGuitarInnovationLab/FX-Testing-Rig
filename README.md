@@ -2,9 +2,13 @@
 Developed by V.J. Manzo as part the Electric Guitar Innovation Lab (http://electricguitarinnovationlab.org) and is available through this Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license:  https://creativecommons.org/licenses/by-nc-nd/4.0/ 
 
 ## Requirements:
-- Max 8 (or later) from http://cycling74.com<br>
-- Daisy Oopsy package available in the Max Package Manager. https://github.com/electro-smith/oopsy/releases/latest/download/oopsy.zip <br>
-  - Unzip and copy the oopsy folder to <code>C:\Users\YourUserName\Documents\Max 8\Packages</code> on Windows or <code>~/Documents/Max 8/Packages/</code> on Mac OS X<br>
+- Download and install Max 8 or later
+  - http://cycling74.com 
+- Download the Oopsy Package
+  - https://github.com/electro-smith/oopsy/releases/latest/download/oopsy.zip
+  - Unzip and copy the ''oopsy'' folder here: 
+    - <code>C:\Users\YourUserName\Documents\Max 8\Packages</code> on Windows
+    - <code>~/Documents/Max 8/Packages/</code> on Mac OS X
 
 ### Recommended:
 By default, this software uses Bias Amp 2 (https://www.positivegrid.com) as the default VST; it is recommended that you install this prior to using this software. 
@@ -36,17 +40,17 @@ Whatever is best for your workflow, check these presets, then make any tweaks yo
 ### Setup your computer to compile to the Daisy Hardware
 
 - Install the Daisy Toolchain for 
- - on Windows
-  - https://github.com/electro-smith/DaisyWiki/wiki/1c.-Installing-the-Toolchain-on-Windows Windows
- - on Mac
-  - https://github.com/electro-smith/DaisyWiki/wiki/1b.-Installing-the-Toolchain-on-Mac
-   - First install Homebrew package manager
+  - Windows
+  - https://github.com/electro-smith/DaisyWiki/wiki/1c.-Installing-the-Toolchain-on-Windows
+  - Mac
+    - https://github.com/electro-smith/DaisyWiki/wiki/1b.-Installing-the-Toolchain-on-Mac
+    - First install Homebrew package manager
     - On your Mac, open Terminal (in ''Applications>Utilities'')
     - copy and run the command<code>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</code>
     - type in your computer password
     - press return to begin the installation (which takes some time)
-   - Then install the Daisy Toolchain
-    - from Terminal, run <code>brew install make armmbed/formulae/arm-none-eabi-gcc dfu-util</code>
+    - Then install the Daisy Toolchain
+     - from Terminal, run <code>brew install make armmbed/formulae/arm-none-eabi-gcc dfu-util</code>
      - when the install is complete, you can close Terminal with it prompting you to wait
 - Install [http://cycling74.com Max 8 or later]
 - Download the Oopsy Package
