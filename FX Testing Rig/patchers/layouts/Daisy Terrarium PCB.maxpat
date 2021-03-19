@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 9,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 104.0, 79.0, 522.0, 649.0 ],
+		"rect" : [ 111.0, 92.0, 522.0, 649.0 ],
 		"bglocked" : 1,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,6 +40,55 @@
 		"assistshowspatchername" : 0,
 		"title" : "Daisy Terrarium PCB Layout",
 		"boxes" : [ 			{
+				"box" : 				{
+					"color" : [ 0.999996, 0.999939, 0.041033, 1.0 ],
+					"id" : "obj-137",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 130.0, 13.0, 37.0, 22.0 ],
+					"text" : "out 1"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"color" : [ 0.999996, 0.999939, 0.041033, 1.0 ],
+					"id" : "obj-145",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 343.75, 13.0, 30.0, 22.0 ],
+					"text" : "in 1"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"color" : [ 1.0, 0.709803921568627, 0.196078431372549, 1.0 ],
+					"id" : "obj-42",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 323.0, 415.0, 61.0, 22.0 ],
+					"text" : "out 4 led2"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"color" : [ 1.0, 0.709803921568627, 0.196078431372549, 1.0 ],
+					"id" : "obj-30",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 119.0, 415.0, 61.0, 22.0 ],
+					"text" : "out 3 led1"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"color" : [ 0.317647, 0.654902, 0.976471, 1.0 ],
 					"id" : "obj-99",
@@ -138,7 +187,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 294.5, 497.0, 116.0, 35.0 ],
+					"patching_rect" : [ 294.5, 538.0, 116.0, 35.0 ],
 					"text" : "param @name sw6 @min 0 @max 1"
 				}
 
@@ -151,7 +200,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 95.5, 497.0, 116.0, 35.0 ],
+					"patching_rect" : [ 95.5, 538.0, 116.0, 35.0 ],
 					"text" : "param @name sw5 @min 0 @max 1"
 				}
 
@@ -305,6 +354,34 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 6.0, 178.75, 75.5, 75.5 ],
 					"varname" : "dial[12]"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"background" : 1,
+					"bgcolor" : [ 0.2, 0.2, 0.2, 0.0 ],
+					"id" : "obj-41",
+					"maxclass" : "led",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "int" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 343.856382978723445, 389.0, 24.0, 24.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"background" : 1,
+					"bgcolor" : [ 0.2, 0.2, 0.2, 0.0 ],
+					"id" : "obj-32",
+					"maxclass" : "led",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "int" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 139.856382978723445, 389.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -533,7 +610,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 90.5, 389.0, 118.0, 118.0 ]
+					"patching_rect" : [ 90.5, 430.0, 118.0, 118.0 ]
 				}
 
 			}
@@ -547,7 +624,7 @@
 					"mode" : 0,
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 113.5, 412.0, 72.0, 72.0 ],
+					"patching_rect" : [ 113.5, 453.0, 72.0, 72.0 ],
 					"proportion" : 0.5,
 					"rounded" : 360
 				}
@@ -563,7 +640,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 294.5, 389.0, 118.0, 118.0 ]
+					"patching_rect" : [ 294.5, 430.0, 118.0, 118.0 ]
 				}
 
 			}
@@ -577,7 +654,7 @@
 					"mode" : 0,
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 317.5, 412.0, 72.0, 72.0 ],
+					"patching_rect" : [ 317.5, 453.0, 72.0, 72.0 ],
 					"proportion" : 0.5,
 					"rounded" : 360
 				}
@@ -593,7 +670,7 @@
 					"mode" : 0,
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 11.5, 28.5, 490.5, 527.5 ],
+					"patching_rect" : [ 11.5, 28.5, 490.5, 548.5 ],
 					"proportion" : 0.5,
 					"rounded" : 56
 				}
@@ -639,7 +716,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 6.5, 589.0, 469.0, 33.0 ],
+					"patching_rect" : [ 6.25, 610.0, 469.0, 33.0 ],
 					"text" : "unlocking the patch and \"selecting all\" will highlight only the param objects, which can be copied and pasted into a gen~ patch"
 				}
 
@@ -653,7 +730,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 6.5, 558.0, 434.5, 33.0 ],
+					"patching_rect" : [ 6.25, 579.0, 434.5, 33.0 ],
 					"text" : "PedalPCB Daisy Terrarium Layout"
 				}
 
@@ -664,7 +741,7 @@
 					"color" : [ 0.463041543960571, 0.463130414485931, 0.463026702404022, 1.0 ],
 					"destination" : [ "obj-61", 0 ],
 					"hidden" : 1,
-					"midpoints" : [ 298.5, 64.75, 259.75, 64.75, 259.75, 21.75, 221.0, 21.75 ],
+					"midpoints" : [ 298.5, 64.75, 259.75, 64.75, 259.75, 37.75, 221.0, 37.75 ],
 					"order" : 3,
 					"source" : [ "obj-73", 0 ]
 				}
@@ -686,7 +763,7 @@
 					"color" : [ 0.463041543960571, 0.463130414485931, 0.463026702404022, 1.0 ],
 					"destination" : [ "obj-65", 0 ],
 					"hidden" : 1,
-					"midpoints" : [ 298.5, 64.75, 176.0, 64.75, 176.0, 21.75, 53.5, 21.75 ],
+					"midpoints" : [ 298.5, 64.75, 176.0, 64.75, 176.0, 34.75, 53.5, 34.75 ],
 					"order" : 5,
 					"source" : [ "obj-73", 0 ]
 				}
