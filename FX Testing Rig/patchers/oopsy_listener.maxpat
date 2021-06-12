@@ -505,7 +505,7 @@
 					"presentation_rect" : [ 34.0, 15.0, 97.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_enum" : [ "patch", "field", "petal", "pod" ],
+							"parameter_enum" : [ "patch", "field", "petal", "terrarium", "pod" ],
 							"parameter_longname" : "live.menu[1]",
 							"parameter_mmax" : 3,
 							"parameter_shortname" : "live.menu",
