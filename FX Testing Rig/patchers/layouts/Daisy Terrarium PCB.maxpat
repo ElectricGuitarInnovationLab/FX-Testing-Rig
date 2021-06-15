@@ -97,7 +97,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 0,
 					"patching_rect" : [ 380.0, 349.0, 116.0, 35.0 ],
-					"text" : "param @name sw7 @min 0 @max 1"
+					"text" : "param @name sw4 @min 0 @max 1"
 				}
 
 			}
@@ -214,7 +214,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 0,
 					"patching_rect" : [ 17.0, 349.0, 117.0, 35.0 ],
-					"text" : "param @name sw3 @min 0 @max 1"
+					"text" : "param @name sw1 @min 0 @max 1"
 				}
 
 			}
@@ -240,7 +240,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 0,
 					"patching_rect" : [ 257.5, 349.0, 117.0, 35.0 ],
-					"text" : "param @name sw1 @min 0 @max 1"
+					"text" : "param @name sw3 @min 0 @max 1"
 				}
 
 			}
