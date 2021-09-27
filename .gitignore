@@ -1,1 +1,14 @@
 /FX Testing Rig/data/BIAS AMP 2.maxsnap
+FX Testing Rig/patchers/My_Effect.cpp
+FX Testing Rig/patchers/My_Effect.h
+FX Testing Rig/patchers/gen_dsp/genlib.cpp
+FX Testing Rig/patchers/gen_dsp/genlib.h
+FX Testing Rig/patchers/gen_dsp/genlib_common.h
+FX Testing Rig/patchers/gen_dsp/genlib_common_win.h
+FX Testing Rig/patchers/gen_dsp/genlib_exportfunctions.h
+FX Testing Rig/patchers/gen_dsp/genlib_ops.h
+FX Testing Rig/patchers/gen_dsp/genlib_platform.h
+FX Testing Rig/patchers/gen_dsp/json.c
+FX Testing Rig/patchers/gen_dsp/json.h
+FX Testing Rig/patchers/gen_dsp/json_builder.c
+FX Testing Rig/patchers/gen_dsp/json_builder.h
