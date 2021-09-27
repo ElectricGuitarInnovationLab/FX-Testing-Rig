@@ -1,5 +1,5 @@
 # FX-Testing-Rig
-Developed by V.J. Manzo as part the Electric Guitar Innovation Lab (http://electricguitarinnovationlab.org) and is available through this Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license:  https://creativecommons.org/licenses/by-nc-nd/4.0/ 
+Developed by V.J. Manzo as part the Electric Guitar Innovation Lab (http://electricguitarinnovationlab.org/pedal) and is available through this Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license:  https://creativecommons.org/licenses/by-nc-nd/4.0/ 
 
 ## Requirements:
 - Download and install Max 8 or later
@@ -44,17 +44,11 @@ Whatever is best for your workflow, check these presets, then make any tweaks yo
   - https://github.com/electro-smith/DaisyWiki/wiki/1c.-Installing-the-Toolchain-on-Windows
   - Mac
     - https://github.com/electro-smith/DaisyWiki/wiki/1b.-Installing-the-Toolchain-on-Mac
-    - First install Homebrew package manager
-    - On your Mac, open Terminal (in ''Applications>Utilities'')
-    - copy and run the command<code>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</code>
-    - type in your computer password
-    - press return to begin the installation (which takes some time)
-    - Then install the Daisy Toolchain
-     - from Terminal, run <code>brew install make armmbed/formulae/arm-none-eabi-gcc dfu-util</code>
-     - when the install is complete, you can close Terminal with it prompting you to wait
 - Install [http://cycling74.com Max 8 or later]
-- Download the Oopsy Package
+- Download the Oopsy Package or the EGIL Oopsy package variant
   - https://github.com/electro-smith/oopsy/releases/latest/download/oopsy.zip
+  or
+  - https://github.com/ElectricGuitarInnovationLab/oopsy-terrarium-support
   - Unzip and copy the ''oopsy'' folder here: 
     - <code>C:\Users\YourUserName\Documents\Max 8\Packages</code> on Windows
     - <code>~/Documents/Max 8/Packages/</code> on Mac OS X
