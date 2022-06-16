@@ -1,17 +1,17 @@
 # FX-Testing-Rig
-Developed by V.J. Manzo as part the Electric Guitar Innovation Lab (http://electricguitarinnovationlab.org/pedal) and is available through this Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license:  https://creativecommons.org/licenses/by-nc-nd/4.0/ 
+Developed by the Electric Guitar Innovation Lab (http://electricguitarinnovationlab.org/pedal) and is available through this Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license:  https://creativecommons.org/licenses/by-nc-nd/4.0/ 
 
 ## Requirements:
 - Download and install Max 8 or later
   - http://cycling74.com 
-- Download the Oopsy Package
-  - https://github.com/electro-smith/oopsy/releases/latest/download/oopsy.zip
-  - Unzip and copy the ''oopsy'' folder here: 
+- Download our modified Electro-smith Oopsy package for Max
+  - https://github.com/ElectricGuitarInnovationLab/oopsy-egil
+  - Unzip the file, rename it to ''oopsy'', and copy the ''oopsy'' folder here: 
     - <code>C:\Users\YourUserName\Documents\Max 8\Packages</code> on Windows
     - <code>~/Documents/Max 8/Packages/</code> on Mac OS X
 
 ### Recommended:
-By default, this software uses Bias Amp 2 (https://www.positivegrid.com) as the default VST; it is recommended that you install this prior to using this software. 
+By default, this software optionally looks for Bias Amp 2 (https://www.positivegrid.com) as the default VST; it is recommended (but not required) that you install this prior to using this software. 
 
 ## Overview
 
@@ -45,11 +45,9 @@ Whatever is best for your workflow, check these presets, then make any tweaks yo
   - Mac
     - https://github.com/electro-smith/DaisyWiki/wiki/1b.-Installing-the-Toolchain-on-Mac
 - Install [http://cycling74.com Max 8 or later]
-- Download the Oopsy Package or the EGIL Oopsy package variant
-  - https://github.com/electro-smith/oopsy/releases/latest/download/oopsy.zip
-  or
-  - https://github.com/ElectricGuitarInnovationLab/oopsy-terrarium-support
-  - Unzip and copy the ''oopsy'' folder here: 
+- Download our modified Electro-smith Oopsy package for Max
+  - https://github.com/ElectricGuitarInnovationLab/oopsy-egil
+  - Unzip the file, rename it to ''oopsy'', and copy the ''oopsy'' folder here: 
     - <code>C:\Users\YourUserName\Documents\Max 8\Packages</code> on Windows
     - <code>~/Documents/Max 8/Packages/</code> on Mac OS X
 
