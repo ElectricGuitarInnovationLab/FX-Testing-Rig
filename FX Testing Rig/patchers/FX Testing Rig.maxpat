@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 3,
-			"revision" : 1,
+			"minor" : 5,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 211.0, 175.0, 1114.0, 757.0 ],
+		"rect" : [ 106.0, 80.0, 1114.0, 757.0 ],
 		"bglocked" : 1,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -183,8 +183,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -436,8 +436,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -834,8 +834,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1788,8 +1788,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2797,8 +2797,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -3758,8 +3758,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -4006,8 +4006,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -4743,8 +4743,8 @@
 					"patching_rect" : [ 1713.52524838521731, 1806.5, 69.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"allwindowsactive" : 0,
-						"appicon_mac" : "Media:/Git Repos/_GitHub/FX-Testing-Rig/FX Testing Rig/patchers/misc/VJ.icns",
-						"appicon_win" : "Media:/Git Repos/_GitHub/FX-Testing-Rig/FX Testing Rig/patchers/misc/VJ.ico",
+						"appicon_mac" : "Macintosh HD:/Users/VJ/Documents/GitHub/FX-Testing-Rig/FX Testing Rig/patchers/misc/VJ.icns",
+						"appicon_win" : "Macintosh HD:/Users/VJ/Documents/GitHub/FX-Testing-Rig/FX Testing Rig/patchers/misc/VJ.ico",
 						"audiosupport" : 1,
 						"bundleidentifier" : "com.vjmanzo.FXTestingRig",
 						"cantclosetoplevelpatchers" : 0,
@@ -4792,8 +4792,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -5695,8 +5695,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7304,8 +7304,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7556,8 +7556,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7808,8 +7808,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -8060,8 +8060,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -8312,8 +8312,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -8564,8 +8564,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -8991,8 +8991,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -9195,8 +9195,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -10014,8 +10014,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -10271,8 +10271,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -10320,8 +10320,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -10511,8 +10511,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -10686,8 +10686,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -12695,8 +12695,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -12897,8 +12897,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -13140,8 +13140,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -13407,8 +13407,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -14035,8 +14035,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -14629,8 +14629,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -15223,8 +15223,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -15817,8 +15817,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -16411,8 +16411,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -17080,8 +17080,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -20368,8 +20368,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -20706,7 +20706,7 @@
 					"fontsize" : 12.0,
 					"hint" : "If working in the G11D lab, the default VST is Bias Amp",
 					"id" : "obj-212",
-					"items" : [ "Absynth 5 FX Surround", ",", "Absynth 5 FX", ",", "Absynth 5 Stereo", ",", "Absynth 5", ",", "Addictive Drums 1", ",", "Addictive Drums 2", ",", "Addictive Drums", ",", "Addictive Keys", ",", "AlSchmitt", ",", "ARIA Player VST Multi", ",", "ARIA Player VST", ",", "Arousor", ",", "Battery 3", ",", "BIAS AMP 2", ",", "BIAS AMP", ",", "BIAS FX 2", ",", "BIAS FX", ",", "BiasPedal", ",", "CenterOne", ",", "Crowd Chamber", ",", "Crystallizer", ",", "Decapitator", ",", "DevilLoc", ",", "DevilLocDeluxe", ",", "Dexed", ",", "DynOne3", ",", "EchoBoy", ",", "EchoBoyJr", ",", "EffectRack", ",", "Endless Smile", ",", "FilterFreak1", ",", "FilterFreak2", ",", "FM8 FX", ",", "FM8", ",", "Guitar Rig 4", ",", "Guitar Rig 5", ",", "iZotope Nectar 2 Breath Control", ",", "iZotope Nectar 2 Pitch Editor", ",", "iZotope Nectar 2", ",", "iZotope Ozone 7", ",", "iZotope RX 5 Connect", ",", "iZotope RX 5 De-click", ",", "iZotope RX 5 De-clip", ",", "iZotope RX 5 De-crackle", ",", "iZotope RX 5 De-hum", ",", "iZotope RX 5 De-noise", ",", "iZotope RX 5 De-reverb", ",", "iZotope RX 5 Dialogue De-noise", ",", "iZotope RX 5 Monitor", ",", "iZotope Vinyl", ",", "Komplete Kontrol", ",", "Kontakt 4 16out", ",", "Kontakt 4 8out", ",", "Kontakt 4", ",", "Kontakt 5 16out", ",", "Kontakt 5 8out", ",", "Kontakt 5", ",", "Listento-Receiver", ",", "Listento", ",", "LittleAlterBoy", ",", "LittleMicroShift", ",", "LittlePlate", ",", "LittlePrimalTap", ",", "LittleRadiator", ",", "Manipulator", ",", "Massive", ",", "MicroShift", ",", "MIDI Guitar 2", ",", "Neutron", ",", "Ozone Imager", ",", "PanMan", ",", "PG FET Compressor", ",", "PG Optical Compressor", ",", "PG Tube Compressor", ",", "PhaseMistress", ",", "Philharmonik 2", ",", "Play", ",", "PrimalTap", ",", "Pulse", ",", "Radiator", ",", "RC-20 Retro Color", ",", "Reaktor5 16out", ",", "Reaktor5 FX 16x16", ",", "Reaktor5 FX 2x8", ",", "Reaktor5 FX", ",", "Reaktor5 Surround", ",", "Reaktor5", ",", "RootOne", ",", "RX 7 De-click", ",", "RX 7 De-clip", ",", "RX 7 De-hum", ",", "RX 7 Voice De-noise", ",", "RX 8 De-click", ",", "RX 8 De-clip", ",", "RX 8 De-hum", ",", "RX 8 Voice De-noise", ",", "SausageFattener", ",", "SieQ", ",", "soothe2", ",", "SpeakerSim", ",", "spiff", ",", "SplitEQ", ",", "StageOne", ",", "TH3", ",", "Tremolator", ",", "TriplePlay", ",", "TRITON", ",", "TRITON_Extreme", ",", "UltraVox", ",", "ValhallaDelay", ",", "ValhallaFreqEcho", ",", "ValhallaRoom", ",", "ValhallaShimmer", ",", "ValhallaSpaceModulator", ",", "ValhallaSupermassive", ",", "ValhallaUberMod", ",", "ValhallaVintageVerb", ",", "Waves Tune Real-Time Mono", ",", "Waves Tune Real-Time Stereo" ],
+					"items" : [ "Absynth 5 FX Surround", ",", "Absynth 5 FX", ",", "Absynth 5 Stereo", ",", "Absynth 5", ",", "Addictive Drums 2", ",", "Addictive Drums", ",", "Addictive Keys", ",", "AlSchmitt", ",", "Altiverb 7", ",", "ARIA Player VST Multi", ",", "ARIA Player VST", ",", "Arousor", ",", "Auto-Tune EFX", ",", "Auto-Tune+Time_VST", ",", "Auto-Tune_Evo_VST", ",", "AVOX ARTICULATOR", ",", "AVOX ASPIRE", ",", "AVOX CHOIR", ",", "AVOX DUO", ",", "AVOX MUTATOR", ",", "AVOX PUNCH", ",", "AVOX SYBIL", ",", "AVOX THROAT", ",", "AVOX WARM", ",", "Battery 3", ",", "BIAS AMP 2", ",", "BIAS FX 2", ",", "BIAS FX", ",", "BIAS GateEx", ",", "BIAS PitchCraft EZ", ",", "BIAS PitchCraft", ",", "BIAS Repli-Q", ",", "BIAS Reveal", ",", "BIAS Sqweez-3", ",", "BIAS Sqweez-5", ",", "BIAS SuperFreq-10", ",", "BIAS SuperFreq-4", ",", "BIAS SuperFreq-6", ",", "BIAS SuperFreq-8", ",", "BIAS", ",", "CenterOne", ",", "Crystallizer", ",", "Decapitator", ",", "Devil-Loc", ",", "Devil-Loc_Deluxe", ",", "Dexed", ",", "DynOne3", ",", "EchoBoy", ",", "EchoBoyJr", ",", "EffectRack", ",", "Endless Smile", ",", "EyeQ", ",", "FilterFreak1", ",", "FilterFreak2", ",", "FM8 FX", ",", "FM8", ",", "Guitar Rig 3", ",", "Guitar Rig 4", ",", "Guitar Rig 5", ",", "Harmony EFX", ",", "Harmony Engine", ",", "iZotope Ozone 7", ",", "Komplete Kontrol", ",", "Kontakt 4 16out", ",", "Kontakt 4 8out", ",", "Kontakt 4", ",", "Kontakt 5 16out", ",", "Kontakt 5 8out", ",", "Kontakt 5", ",", "Listento-Receiver", ",", "Listento", ",", "LittleAlterBoy", ",", "LittleMicroShift", ",", "LittlePlate", ",", "LittlePrimalTap", ",", "LittleRadiator", ",", "Manipulator", ",", "Massive", ",", "MicroShift", ",", "Multi Band Gate", ",", "Nectar 3", ",", "Neutron", ",", "Ozone Imager", ",", "PanMan", ",", "PG Digital EQ", ",", "PG FET Compressor", ",", "PG Optical Compressor", ",", "PG Passive EQ", ",", "PG Tube Compressor", ",", "PG Tube EQ", ",", "PhaseMistress", ",", "Philharmonik 2", ",", "Philharmonik", ",", "Play", ",", "PrimalTap", ",", "Radiator", ",", "RC-20 Retro Color", ",", "Reaktor5 16out", ",", "Reaktor5 FX 16x16", ",", "Reaktor5 FX 2x8", ",", "Reaktor5 FX", ",", "Reaktor5 Surround", ",", "Reaktor5", ",", "Relay", ",", "RootOne", ",", "RX 7 Breath Control", ",", "RX 7 De-click", ",", "RX 7 De-clip", ",", "RX 7 De-hum", ",", "RX 7 Voice De-noise", ",", "RX 8 De-click", ",", "RX 8 De-clip", ",", "RX 8 De-hum", ",", "RX 8 Voice De-noise", ",", "SampleTank2.x", ",", "SausageFattener", ",", "SieQ", ",", "soothe2", ",", "Speakers", ",", "SpeakerSim", ",", "spiff", ",", "SplitEQ", ",", "StageOne", ",", "TC-Helicon VoiceWorks", ",", "Tremolator", ",", "TRITON", ",", "TRITON_Extreme", ",", "UltraVox", ",", "UVIWorkstationVST", ",", "ValhallaDelay", ",", "ValhallaFreqEcho", ",", "ValhallaRoom_x64", ",", "ValhallaShimmer_x64", ",", "ValhallaSpaceModulator", ",", "ValhallaSupermassive", ",", "ValhallaUberMod_x64", ",", "ValhallaVintageVerb_x64", ",", "Vinyl", ",", "WaveShell1-VST 11.0", ",", "Wivi_Band" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -20815,8 +20815,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -21139,8 +21139,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -21463,8 +21463,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -22090,8 +22090,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -22447,8 +22447,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -23575,7 +23575,7 @@
 					"bgfillcolor_proportion" : 0.5,
 					"bgfillcolor_type" : "gradient",
 					"id" : "obj-17",
-					"items" : [ "Off", ",", 1, "Analog 1", ",", 2, "Analog 2", ",", 3, "Analog 3", ",", 4, "Analog 4", ",", 5, "Analog 5", ",", 6, "Analog 6", ",", 7, "Analog 7", ",", 8, "Analog 8", ",", 9, "Phones 9", ",", 10, "Phones 10", ",", 11, "Phones 11", ",", 12, "Phones 12", ",", 13, "AES L", ",", 14, "AES R", ",", 15, "ADAT 1", ",", 16, "ADAT 2", ",", 17, "ADAT 3", ",", 18, "ADAT 4", ",", 19, "ADAT 5", ",", 20, "ADAT 6", ",", 21, "ADAT 7", ",", 22, "ADAT 8", ",", 23, "ADAT 9", ",", 24, "ADAT 10", ",", 25, "ADAT 11", ",", 26, "ADAT 12", ",", 27, "ADAT 13", ",", 28, "ADAT 14", ",", 29, "ADAT 15", ",", 30, "ADAT 16", ",", 31, "MADI 1", ",", 32, "MADI 2", ",", 33, "MADI 3", ",", 34, "MADI 4", ",", 35, "MADI 5", ",", 36, "MADI 6", ",", 37, "MADI 7", ",", 38, "MADI 8", ",", 39, "MADI 9", ",", 40, "MADI 10", ",", 41, "MADI 11", ",", 42, "MADI 12", ",", 43, "MADI 13", ",", 44, "MADI 14", ",", 45, "MADI 15", ",", 46, "MADI 16", ",", 47, "MADI 17", ",", 48, "MADI 18", ",", 49, "MADI 19", ",", 50, "MADI 20", ",", 51, "MADI 21", ",", 52, "MADI 22", ",", 53, "MADI 23", ",", 54, "MADI 24", ",", 55, "MADI 25", ",", 56, "MADI 26", ",", 57, "MADI 27", ",", 58, "MADI 28", ",", 59, "MADI 29", ",", 60, "MADI 30", ",", 61, "MADI 31", ",", 62, "MADI 32", ",", 63, "MADI 33", ",", 64, "MADI 34", ",", 65, "MADI 35", ",", 66, "MADI 36", ",", 67, "MADI 37", ",", 68, "MADI 38", ",", 69, "MADI 39", ",", 70, "MADI 40", ",", 71, "MADI 41", ",", 72, "MADI 42", ",", 73, "MADI 43", ",", 74, "MADI 44", ",", 75, "MADI 45", ",", 76, "MADI 46", ",", 77, "MADI 47", ",", 78, "MADI 48", ",", 79, "MADI 49", ",", 80, "MADI 50", ",", 81, "MADI 51", ",", 82, "MADI 52", ",", 83, "MADI 53", ",", 84, "MADI 54", ",", 85, "MADI 55", ",", 86, "MADI 56", ",", 87, "MADI 57", ",", 88, "MADI 58", ",", 89, "MADI 59", ",", 90, "MADI 60", ",", 91, "MADI 61", ",", 92, "MADI 62", ",", 93, "MADI 63", ",", 94, "MADI 64" ],
+					"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -23623,7 +23623,7 @@
 					"bgfillcolor_proportion" : 0.5,
 					"bgfillcolor_type" : "gradient",
 					"id" : "obj-18",
-					"items" : [ "Off", ",", 1, "Analog 1", ",", 2, "Analog 2", ",", 3, "Analog 3", ",", 4, "Analog 4", ",", 5, "Analog 5", ",", 6, "Analog 6", ",", 7, "Analog 7", ",", 8, "Analog 8", ",", 9, "Phones 9", ",", 10, "Phones 10", ",", 11, "Phones 11", ",", 12, "Phones 12", ",", 13, "AES L", ",", 14, "AES R", ",", 15, "ADAT 1", ",", 16, "ADAT 2", ",", 17, "ADAT 3", ",", 18, "ADAT 4", ",", 19, "ADAT 5", ",", 20, "ADAT 6", ",", 21, "ADAT 7", ",", 22, "ADAT 8", ",", 23, "ADAT 9", ",", 24, "ADAT 10", ",", 25, "ADAT 11", ",", 26, "ADAT 12", ",", 27, "ADAT 13", ",", 28, "ADAT 14", ",", 29, "ADAT 15", ",", 30, "ADAT 16", ",", 31, "MADI 1", ",", 32, "MADI 2", ",", 33, "MADI 3", ",", 34, "MADI 4", ",", 35, "MADI 5", ",", 36, "MADI 6", ",", 37, "MADI 7", ",", 38, "MADI 8", ",", 39, "MADI 9", ",", 40, "MADI 10", ",", 41, "MADI 11", ",", 42, "MADI 12", ",", 43, "MADI 13", ",", 44, "MADI 14", ",", 45, "MADI 15", ",", 46, "MADI 16", ",", 47, "MADI 17", ",", 48, "MADI 18", ",", 49, "MADI 19", ",", 50, "MADI 20", ",", 51, "MADI 21", ",", 52, "MADI 22", ",", 53, "MADI 23", ",", 54, "MADI 24", ",", 55, "MADI 25", ",", 56, "MADI 26", ",", 57, "MADI 27", ",", 58, "MADI 28", ",", 59, "MADI 29", ",", 60, "MADI 30", ",", 61, "MADI 31", ",", 62, "MADI 32", ",", 63, "MADI 33", ",", 64, "MADI 34", ",", 65, "MADI 35", ",", 66, "MADI 36", ",", 67, "MADI 37", ",", 68, "MADI 38", ",", 69, "MADI 39", ",", 70, "MADI 40", ",", 71, "MADI 41", ",", 72, "MADI 42", ",", 73, "MADI 43", ",", 74, "MADI 44", ",", 75, "MADI 45", ",", 76, "MADI 46", ",", 77, "MADI 47", ",", 78, "MADI 48", ",", 79, "MADI 49", ",", 80, "MADI 50", ",", 81, "MADI 51", ",", 82, "MADI 52", ",", 83, "MADI 53", ",", 84, "MADI 54", ",", 85, "MADI 55", ",", 86, "MADI 56", ",", 87, "MADI 57", ",", 88, "MADI 58", ",", 89, "MADI 59", ",", 90, "MADI 60", ",", 91, "MADI 61", ",", 92, "MADI 62", ",", 93, "MADI 63", ",", 94, "MADI 64" ],
+					"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -23672,7 +23672,7 @@
 					"bgfillcolor_type" : "gradient",
 					"hint" : "If working in the G11D lab, the default interface is the Fireface",
 					"id" : "obj-14",
-					"items" : [ "None", ",", "HD Pro Webcam C920", ",", "Soundflower (2ch)", ",", "Soundflower (64ch)", ",", "Fireface UFX+ (23782225)", ",", "ZoomAudioDevice" ],
+					"items" : [ "None", ",", "Built-in Microphone", ",", "Soundflower (2ch)", ",", "Soundflower (64ch)", ",", "ZoomAudioDevice" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -24392,7 +24392,7 @@
 					"bgfillcolor_type" : "gradient",
 					"fontsize" : 14.0,
 					"id" : "obj-63",
-					"items" : [ "AutoWah.gendsp", ",", "Dual Auto-LFO.gendsp", ",", "Feedback Delay.gendsp", ",", "Flanger.gendsp", ",", "Harmonizer.gendsp", ",", "Intro to Gen Default FX Patch.gendsp", ",", "Lowpass.gendsp", ",", "LPF Camp Multi-FX Pedal.gendsp", ",", "Multi-Effects Pedal.gendsp", ",", "Octaver.gendsp", ",", "Pitch_Shifter.gendsp", ",", "Tremolo.gendsp", ",", "Two Distortions.gendsp", ",", "VJ's Cheat Sheet.gendsp" ],
+					"items" : [ "AutoWah.gendsp", ",", "Dual Auto-LFO.gendsp", ",", "Feedback Delay.gendsp", ",", "Flanger.gendsp", ",", "Harmonizer.gendsp", ",", "Intro to Gen Default FX Patch.gendsp", ",", "Lowpass.gendsp", ",", "LPF Camp Multi-FX Pedal.gendsp", ",", "Multi-Effects Pedal.gendsp", ",", "Octaver.gendsp", ",", "pitch_shifter.gendsp", ",", "Tremolo.gendsp", ",", "Two Distortions.gendsp", ",", "VJ's Cheat Sheet.gendsp" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -24562,14 +24562,14 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "dsp.gen",
-						"rect" : [ 207.0, 178.0, 1114.0, 755.0 ],
+						"rect" : [ 141.0, 82.0, 1114.0, 755.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -24609,7 +24609,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 502.75, 18.0, 235.0, 33.0 ],
-									"presentation_linecount" : 2,
 									"text" : "You can unlock this patch by pressing the keys \"Command\" and \"E\"",
 									"textjustification" : 1
 								}
@@ -24627,7 +24626,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1484.60416666666697, 1389.0, 62.854166666666629, 37.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Input Signal",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -24662,8 +24660,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -24734,7 +24732,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 425.0, 366.0, 65.0, 39.0 ],
-													"presentation_linecount" : 2,
 													"text" : "scale down"
 												}
 
@@ -24879,8 +24876,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -25432,7 +25429,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 664.491453380624534, 1525.0, 198.0, 51.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Octaver (add dual ocaves)",
 									"textjustification" : 1
 								}
@@ -25485,7 +25481,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 636.498015873016357, 1794.96668016910553, 111.930357142857247, 24.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Input Signal",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -25540,8 +25535,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 1228.668650793651068, 1776.5, 98.558363080024719, 118.0 ],
-									"presentation_linecount" : 4,
+									"patching_rect" : [ 1228.668650793651068, 1776.5, 100.0, 118.0 ],
 									"text" : "Switch 5 makes it so you delay the original sound, rather than the secondary octave(s)"
 								}
 
@@ -25619,7 +25613,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 970.948015873016175, 1614.89931807518019, 323.0, 91.0 ],
-									"presentation_linecount" : 6,
 									"text" : "Knob controls Pitch Shift for Octave 2 voice\n0 = No Octave change from original\n(0.01 --> 0.25] / 2 Octave down from original (7.5)\n(0.25 --> 0.50] / 1 Octave down from original (5)\n(0.50 --> 0.75] / 1 Octave up from original (-10)\n(0.75 --> 1.] / 2 Octave down from original (-30)"
 								}
 
@@ -25633,7 +25626,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1009.468834333004224, 1715.96668016910553, 279.95836308002481, 51.0 ],
-									"presentation_linecount" : 4,
 									"text" : "Controls the amount of delay for one of the voices. From 0 delay up to 1/10th of a second of delay"
 								}
 
@@ -25671,7 +25663,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 934.602182539682872, 1520.0, 292.087301587301909, 91.0 ],
-									"presentation_linecount" : 6,
 									"text" : "Knob controls Pitch Shift for Octave 1 voice\n0 = No Octave change from original\n(0.01 --> 0.25] / 2 Octave down from original (7.5)\n(0.25 --> 0.50] / 1 Octave down from original (5)\n(0.50 --> 0.75] / 1 Octave up from original (-10)\n(0.75 --> 1.] / 2 Octave down from original (-30)"
 								}
 
@@ -25688,8 +25679,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -25733,7 +25724,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 332.716692686080933, 978.21197098493576, 395.0, 64.0 ],
-													"presentation_linecount" : 5,
 													"text" : "Switch 5 makes it so you delay the original sound, rather than the secondary octave(s) \n\nDefault/OFF Secondary voices gets delay; ON Original gets delay"
 												}
 
@@ -25780,7 +25770,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 564.347804918885231, 268.326359832286926, 148.204403132200241, 37.0 ],
-													"presentation_linecount" : 2,
 													"text" : "Controls the volume of Octave 2 via knob 3"
 												}
 
@@ -25806,7 +25795,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 247.5, 268.326359832286926, 148.204403132200241, 37.0 ],
-													"presentation_linecount" : 2,
 													"text" : "Controls the volume of Octave 1 via knob 2"
 												}
 
@@ -25847,8 +25835,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -26067,8 +26055,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -26287,8 +26275,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -26507,8 +26495,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -26714,8 +26702,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -26921,8 +26909,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -27128,8 +27116,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -27384,7 +27372,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 286.292136132717133, 916.19660347700119, 289.866658687591553, 27.0 ],
-													"presentation_linecount" : 2,
 													"text" : "Params used: knob 4 & switch 5"
 												}
 
@@ -29133,7 +29120,6 @@
 									}
 ,
 									"patching_rect" : [ 741.157539682539891, 1820.5, 298.511111111111404, 22.0 ],
-									"presentation_linecount" : 2,
 									"text" : "gen Octaver"
 								}
 
@@ -29167,7 +29153,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1106.60416666666697, 1248.5, 184.0, 29.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Manual Swell",
 									"textjustification" : 1
 								}
@@ -29185,7 +29170,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1109.713541666666515, 1366.0, 62.854166666666629, 37.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Input Signal",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -29233,7 +29217,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1149.713541666666515, 1309.0, 58.854166666666629, 79.0 ],
-									"presentation_linecount" : 4,
 									"text" : "Swell Effect Off/On (0 to 1)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -29252,8 +29235,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -29380,8 +29363,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -29734,8 +29717,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -30078,7 +30061,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1106.60416666666697, 1150.663592457771301, 62.854166666666629, 37.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Input Signal",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -30113,8 +30095,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -30320,8 +30302,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -30548,7 +30530,7 @@
 												"box" : 												{
 													"code" : "\r\nK = tan (in1 * pi / samplerate);\r\nQ = 2; // try changing the Q value \r\n\r\nsharedDenom = (pow(K,2) * Q + K + Q);\r\n\r\nout1 = pow(K,2) * Q / sharedDenom; // b0, b1\r\nout2 = 2 * pow(K,2) * Q / sharedDenom; // b2\r\nout3 = 2 * Q * (pow(K,2) - 1) / sharedDenom; // a1\r\nout4 = (pow(K,2) * Q - K + Q) / sharedDenom; // a2",
 													"fontface" : 0,
-													"fontname" : "Menlo",
+													"fontname" : "<Monospaced>",
 													"fontsize" : 10.0,
 													"id" : "obj-10",
 													"maxclass" : "codebox",
@@ -31080,12 +31062,11 @@
 									"fontface" : 1,
 									"fontsize" : 16.0,
 									"id" : "obj-220",
-									"linecount" : 7,
+									"linecount" : 6,
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 982.5625, 443.5, 108.0, 151.0 ],
-									"presentation_linecount" : 5,
+									"patching_rect" : [ 982.5625, 443.5, 113.0, 133.0 ],
 									"text" : "This effect is a good one to look at to get a sense of how audio is processed",
 									"textcolor" : [ 0.286274509803922, 0.584313725490196, 0.0, 1.0 ],
 									"textjustification" : 1
@@ -31122,8 +31103,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 635.875, 623.0, 465.0, 100.0 ],
-									"presentation_linecount" : 4,
+									"patching_rect" : [ 635.875, 623.0, 466.0, 100.0 ],
 									"text" : "These are some helper commands for working with controls—sometimes you want a button to hold and latch on, while other times you might want it to be a momentary event. Take a look at how these helpers are used in some of the (above) example effects.",
 									"textcolor" : [ 0.486274509803922, 0.286274509803922, 0.615686274509804, 1.0 ],
 									"textjustification" : 1
@@ -31248,7 +31228,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 23.39583333333394, 11.0, 617.0, 47.0 ],
-									"presentation_linecount" : 2,
 									"text" : "FX Hackathon Cheet Sheet"
 								}
 
@@ -31280,7 +31259,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 591.3125, 110.0, 903.0, 64.0 ],
-									"presentation_linecount" : 4,
 									"text" : "The control parameters (in blue boxes) (sw1 - 7) corresponding to controls on the hardware device where your code will eventually live. You can simulate these controls (knobs and buttons) by using the graphical controls in the main FX Testing Rig software—for example, the first param \"sw1\" turns the first effect in this patch on and off.",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -31314,12 +31292,11 @@
 									"fontface" : 1,
 									"fontsize" : 16.0,
 									"id" : "obj-199",
-									"linecount" : 15,
+									"linecount" : 14,
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 298.0625, 449.0, 142.0, 294.0 ],
-									"presentation_linecount" : 12,
+									"patching_rect" : [ 298.0625, 449.0, 146.0, 276.0 ],
 									"text" : "This cable carries the output signal from the effect to the input of the next effect—you can, in principle, bypass all other effects in this chain by connecting the output cable directly to the [out] objects at the end!",
 									"textcolor" : [ 0.380392156862745, 0.223529411764706, 0.482352941176471, 1.0 ],
 									"textjustification" : 1
@@ -31340,7 +31317,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 74.0625, 439.5, 174.947916666666742, 311.0 ],
-									"presentation_linecount" : 21,
 									"text" : "With the patch unlocked, hold the command key and double-click these green objects to reveal the effect innerworkings! You can, in principle, edit the contents of this patch or copy them someplace else if you'd like. Perhaps some effects need a little bit crusher in front of them? Or after them?",
 									"textcolor" : [ 0.286274509803922, 0.584313725490196, 0.0, 1.0 ],
 									"textjustification" : 1
@@ -31358,8 +31334,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 1947.625000000000455, 1036.0, 140.0, 78.0 ],
-									"presentation_linecount" : 3,
+									"patching_rect" : [ 1947.625000000000455, 1036.0, 145.0, 78.0 ],
 									"text" : "Don't delete these [out] objects!!",
 									"textcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 									"textjustification" : 1
@@ -31379,7 +31354,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.8125, 158.5, 173.0, 70.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Don't delete this [in] object!!",
 									"textcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 									"textjustification" : 1
@@ -31415,7 +31389,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 612.75, 1138.0, 96.0, 66.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Dual Mono or Stereo Input Thru",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -31556,7 +31529,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 668.875, 1358.0, 300.433333333333394, 52.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Out 1 and Out 2 will either be Dual Mono or Stereo depending on the value at inlet 4",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -31643,7 +31615,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 865.89583333333394, 1283.0, 177.0, 29.0 ],
-									"presentation_linecount" : 2,
 									"text" : "7 - Dry/Wet Effect Level (0 for Dry Only; 1 for Effect Only)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ]
 								}
@@ -31674,7 +31645,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 865.89583333333394, 1311.5, 146.0, 29.0 ],
-									"presentation_linecount" : 2,
 									"text" : "8 - Effect Makeup Gain (0 for no added gain to signal)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ]
 								}
@@ -31706,8 +31676,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -31753,8 +31723,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -31960,8 +31930,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -32167,8 +32137,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -33409,8 +33379,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -33533,8 +33503,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -35230,8 +35200,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -35449,8 +35419,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -36362,8 +36332,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -36606,8 +36576,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -37127,8 +37097,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -37334,8 +37304,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -37907,8 +37877,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -38094,8 +38064,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -38282,9 +38252,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 78.8125, 56.5, 660.0, 53.0 ],
-									"presentation_linecount" : 3,
-									"text" : "START HERE!!!! Audio comes in to the effect through this [in] object and goes out from the effect through the [out] object—follow the path (purple cables) from the [in] through the various effect code boxes (in green) until you find the [out] objects at the end of this signal path!",
-									"textjustification" : 0
+									"text" : "START HERE!!!! Audio comes in to the effect through this [in] object and goes out from the effect through the [out] object—follow the path (purple cables) from the [in] through the various effect code boxes (in green) until you find the [out] objects at the end of this signal path!"
 								}
 
 							}
@@ -38299,7 +38267,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1106.60416666666697, 1055.0, 198.0, 29.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Low-pass Filter",
 									"textjustification" : 1
 								}
@@ -38317,7 +38284,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 601.5625, 984.5, 879.0625, 66.0 ],
-									"presentation_linecount" : 16,
 									"text" : "Some other FX you end up putting in a drawer—they're not connected to anything, but you can explore them for reference, connect them, and adapt them if you'd like",
 									"textjustification" : 1
 								}
@@ -38335,8 +38301,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -38568,8 +38534,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -38755,8 +38721,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -38940,7 +38906,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 511.75, 381.0, 123.0625, 37.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Level of Shifted Signal",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -38959,8 +38924,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -39143,7 +39108,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1788.075000000000273, 984.5, 112.0, 47.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Keeping Levels from Overloading with [clip]",
 									"textcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 									"textjustification" : 1
@@ -39173,7 +39137,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 725.285714285714221, 837.5, 221.91666666666606, 37.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Smooth the transitions between numbers when they change",
 									"textcolor" : [ 0.701960784313725, 0.415686274509804, 0.886274509803922, 1.0 ],
 									"textjustification" : 1
@@ -39190,7 +39153,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 787.202380952380281, 787.0, 160.0, 37.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Use a Momentary Switch as a Toggle",
 									"textcolor" : [ 0.701960784313725, 0.415686274509804, 0.886274509803922, 1.0 ],
 									"textjustification" : 1
@@ -39225,8 +39187,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -39400,7 +39362,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1623.241666666666788, 759.0, 109.0, 71.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Stereo to Stereo Manager",
 									"textjustification" : 1
 								}
@@ -39419,7 +39380,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1140.79166666666697, 705.0, 104.10416666666697, 71.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Mono to Stereo Manager",
 									"textjustification" : 1
 								}
@@ -39437,7 +39397,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1773.241666666666788, 192.5, 182.0, 51.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Feedback Delay Effect",
 									"textjustification" : 1
 								}
@@ -39455,7 +39414,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1307.89583333333394, 192.5, 109.0, 51.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Chorus Effect",
 									"textjustification" : 1
 								}
@@ -39473,7 +39431,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1026.89583333333394, 192.5, 105.0, 51.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Tremolo Effect",
 									"textjustification" : 1
 								}
@@ -39492,7 +39449,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 747.39583333333394, 192.5, 102.0, 51.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Flanger Effect",
 									"textjustification" : 1
 								}
@@ -39511,7 +39467,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 376.39583333333394, 192.5, 135.0, 51.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Pitch Shifter Effect",
 									"textjustification" : 1
 								}
@@ -39529,7 +39484,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 125.5625, 257.0, 182.0, 51.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Bitcrusher Distortion Effect",
 									"textjustification" : 1
 								}
@@ -39546,7 +39500,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 51.8125, 1138.0, 245.0, 79.0 ],
-									"presentation_linecount" : 4,
 									"text" : "Gen Parameters that are Mapped/Mappable to Toggle Hardware Switches (mapped to UI controls in main patch)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -39606,7 +39559,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 292.5625, 914.0, 244.0, 66.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Gen Knob Controls that are Mapped/Mappable to Hardware Controls (mapped to UI controls in main patch)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -39718,7 +39670,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 47.8125, 914.0, 244.0, 79.0 ],
-									"presentation_linecount" : 4,
 									"text" : "Gen Parameters that are Mapped/Mappable to Momentary Hardware Switches (mapped to UI controls in main patch)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -39815,7 +39766,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1743.241666666666788, 773.0, 169.433333333333394, 79.0 ],
-									"presentation_linecount" : 4,
 									"text" : "Out 1 and Out 2 will either be Dual Mono or Stereo depending on the value at inlet 4",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -39849,7 +39799,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1658.375, 340.5, 96.0, 66.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Dual Mono or Stereo Input Thru",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -39908,7 +39857,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1693.491666666666788, 670.5, 75.0, 66.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Dry Stereo Inputs 1 & 2",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -39926,8 +39874,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 1822.241666666666788, 664.0, 50.0, 79.0 ],
-									"presentation_linecount" : 4,
+									"patching_rect" : [ 1822.241666666666788, 664.0, 51.0, 79.0 ],
 									"text" : "Stereo Effect In 1 & 2",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -39945,7 +39892,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1900.241666666666788, 649.5, 146.83333333333303, 51.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Dry/Wet Effect Level (0 for Dry Only; 1 for Effect Only)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ]
 								}
@@ -39962,7 +39908,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1991.625000000000455, 565.0, 108.0, 37.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Effect Bypass Off/On (0 to 1)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ]
 								}
@@ -39980,7 +39925,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1924.741666666666788, 699.5, 110.133333333333212, 64.0 ],
-									"presentation_linecount" : 4,
 									"text" : "Effect Makeup Gain (0 for no added gain to signal)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ]
 								}
@@ -40013,8 +39957,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -40060,8 +40004,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -40267,8 +40211,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -40474,8 +40418,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -41740,8 +41684,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -41800,8 +41744,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -42007,8 +41951,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -42214,8 +42158,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -42421,8 +42365,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -43670,7 +43614,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1256.125, 727.0, 167.16666666666697, 79.0 ],
-									"presentation_linecount" : 4,
 									"text" : "Out 1 and Out 2 will either be Dual Mono or Stereo depending on the value at inlet 3",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -43688,8 +43631,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 949.22916666666697, 349.0, 63.0, 66.0 ],
-									"presentation_linecount" : 3,
+									"patching_rect" : [ 949.22916666666697, 349.0, 65.0, 66.0 ],
 									"text" : "Tremolo Off/On (0 to 1)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -43707,7 +43649,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 157.5625, 387.5, 118.0, 37.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Bit Crusher Off/On (0 to 1)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -43726,8 +43667,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -43772,7 +43713,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 395.25, 467.0, 178.75, 133.0 ],
-													"presentation_linecount" : 14,
 													"text" : "The feedback process we made increases the amplitude of the effect, so to keep the signal from being too hot and overpowering, we divide it so the number is smaller—any value above 1. will distort in a   way that you might not like",
 													"textjustification" : 1
 												}
@@ -43789,7 +43729,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 334.75, 33.0, 324.0, 42.0 ],
-													"presentation_linecount" : 3,
 													"text" : "You can unlock this patch by pressing the keys \"Command\" and \"E\"",
 													"textjustification" : 1
 												}
@@ -43806,7 +43745,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 604.5, 296.0, 119.75, 347.0 ],
-													"presentation_linecount" : 10,
 													"text" : "delays the signal by a few samples of audio (five of them!) (through the [delay] object and feeds those samples back into itself (through the [history] object. Everything in these effects happens at the \"sample rate\" meaning that audio is processed by gathering a certain number of samples or \"over the amount of time it takes to gather a certain number of samples\" as opposed to \"event-based\" processing which happens in time (milliseconds)",
 													"textjustification" : 1
 												}
@@ -43824,8 +43762,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -44504,7 +44442,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1206.875, 609.5, 46.0, 79.0 ],
-									"presentation_linecount" : 4,
 									"text" : "Dry Mono Input Thru",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -44522,8 +44459,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 1326.625, 615.5, 50.0, 79.0 ],
-									"presentation_linecount" : 4,
+									"patching_rect" : [ 1326.625, 615.5, 51.0, 79.0 ],
 									"text" : "Stereo Effect In 1 & 2",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -44541,7 +44477,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1408.79166666666697, 623.0, 185.0, 37.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Dry/Wet Effect Level (0 for Dry Only; 1 for Effect Only)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ]
 								}
@@ -44558,7 +44493,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 1485.79166666666697, 532.0, 108.0, 37.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Effect Bypass Off/On (0 to 1)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ]
 								}
@@ -44574,8 +44508,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 1435.125, 673.5, 152.0, 51.0 ],
-									"presentation_linecount" : 3,
+									"patching_rect" : [ 1435.125, 673.5, 154.0, 51.0 ],
 									"text" : "Effect Makeup Gain (0 for no added gain to signal)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ]
 								}
@@ -44608,8 +44541,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -44655,8 +44588,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -44862,8 +44795,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -45069,8 +45002,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -46323,8 +46256,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -46383,8 +46316,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -46590,8 +46523,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -46797,8 +46730,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -47630,7 +47563,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 451.3125, 482.5, 135.0, 33.0 ],
-									"presentation_linecount" : 2,
 									"text" : "5 = octave down\n-10 = octave up",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ]
 								}
@@ -47720,7 +47652,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 665.89583333333394, 339.5, 59.0, 66.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Flanger Off/On (0 to 1)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -47765,8 +47696,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -47812,8 +47743,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -48019,8 +47950,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -48226,8 +48157,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -48433,8 +48364,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -49442,7 +49373,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 370.5625, 346.0, 66.0, 66.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Shifter Off/On (0 to 1)",
 									"textcolor" : [ 0.32156862745098, 0.556862745098039, 0.811764705882353, 1.0 ],
 									"textjustification" : 1
@@ -49461,8 +49391,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -49521,8 +49451,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -49742,8 +49672,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -49949,8 +49879,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -50156,8 +50086,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -51214,8 +51144,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 229.5625, 121.0, 94.0, 91.0 ],
-									"presentation_linecount" : 3,
+									"patching_rect" : [ 229.5625, 122.0, 94.0, 91.0 ],
 									"text" : "mono audio input with clipping protection (we set a -1 to 1 range)"
 								}
 
@@ -51326,8 +51255,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 1,
+											"minor" : 5,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -51386,8 +51315,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -51593,8 +51522,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -51800,8 +51729,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 1,
+															"minor" : 5,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -53535,7 +53464,7 @@
 ,
 					"patching_rect" : [ 132.097821857142662, 928.25, 298.558085166666274, 22.0 ],
 					"saved_object_attributes" : 					{
-						"exportfolder" : "Media:/Git Repos/_GitHub/FX-Testing-Rig/FX Testing Rig/patchers/",
+						"exportfolder" : "Macintosh HD:/Users/VJ/Documents/GitHub/FX-Testing-Rig/FX Testing Rig/patchers/",
 						"exportname" : "FX_20Testing_20Rig"
 					}
 ,
@@ -53600,7 +53529,7 @@
 							"pluginname" : "BIAS AMP 2.vstinfo",
 							"plugindisplayname" : "BIAS AMP 2",
 							"pluginsavedname" : "",
-							"pluginsaveduniqueid" : 1114194226,
+							"pluginsaveduniqueid" : 0,
 							"version" : 1,
 							"isbank" : 0,
 							"isbase64" : 1,
@@ -53622,7 +53551,7 @@
 										"pluginname" : "BIAS AMP 2.vstinfo",
 										"plugindisplayname" : "BIAS AMP 2",
 										"pluginsavedname" : "",
-										"pluginsaveduniqueid" : 1114194226,
+										"pluginsaveduniqueid" : 0,
 										"version" : 1,
 										"isbank" : 0,
 										"isbase64" : 1,
@@ -53761,7 +53690,7 @@
 					"bgfillcolor_type" : "gradient",
 					"hint" : "If working in the G11D lab, the default interface is the Fireface",
 					"id" : "obj-323",
-					"items" : [ "None", ",", "Built-in Output", ",", "Soundflower (2ch)", ",", "Soundflower (64ch)", ",", "Fireface UFX+ (23782225)", ",", "ZoomAudioDevice", ",", "Multi-Output Device" ],
+					"items" : [ "None", ",", "Built-in Output", ",", "Soundflower (2ch)", ",", "Soundflower (64ch)", ",", "ZoomAudioDevice" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -59202,20 +59131,20 @@
 		"dependency_cache" : [ 			{
 				"name" : "BIAS AMP 2.maxsnap",
 				"bootpath" : "~/Documents/Max 8/Snapshots",
-				"patcherrelativepath" : "../../../../../../../Users/VJ/Documents/Max 8/Snapshots",
+				"patcherrelativepath" : "../../../../Max 8/Snapshots",
 				"type" : "mx@s",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "EGIL.png",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/FX-Testing-Rig/FX Testing Rig/patchers/misc",
+				"bootpath" : "~/Documents/GitHub/FX-Testing-Rig/FX Testing Rig/patchers/misc",
 				"patcherrelativepath" : "./misc",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "VJManzo_logo.png",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/FX-Testing-Rig/FX Testing Rig/media",
+				"bootpath" : "~/Documents/GitHub/FX-Testing-Rig/FX Testing Rig/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
@@ -59223,34 +59152,34 @@
 , 			{
 				"name" : "oopsy.node4max.js",
 				"bootpath" : "~/Documents/Max 8/Packages/oopsy/javascript",
-				"patcherrelativepath" : "../../../../../../../Users/VJ/Documents/Max 8/Packages/oopsy/javascript",
+				"patcherrelativepath" : "../../../../Max 8/Packages/oopsy/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "oopsy.snoop.js",
 				"bootpath" : "~/Documents/Max 8/Packages/oopsy/javascript",
-				"patcherrelativepath" : "../../../../../../../Users/VJ/Documents/Max 8/Packages/oopsy/javascript",
+				"patcherrelativepath" : "../../../../Max 8/Packages/oopsy/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "oopsy_listener.maxpat",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/FX-Testing-Rig/FX Testing Rig/patchers",
+				"bootpath" : "~/Documents/GitHub/FX-Testing-Rig/FX Testing Rig/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "vj.audio_senders.maxpat",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/FX-Testing-Rig/FX Testing Rig/patchers",
+				"bootpath" : "~/Documents/GitHub/FX-Testing-Rig/FX Testing Rig/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "vj.filepath_folder.maxpat",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/FX-Testing-Rig/FX Testing Rig/patchers",
+				"bootpath" : "~/Documents/GitHub/FX-Testing-Rig/FX Testing Rig/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
