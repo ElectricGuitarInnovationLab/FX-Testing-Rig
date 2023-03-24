@@ -12,3 +12,6 @@ FX Testing Rig/patchers/gen_dsp/json.c
 FX Testing Rig/patchers/gen_dsp/json.h
 FX Testing Rig/patchers/gen_dsp/json_builder.c
 FX Testing Rig/patchers/gen_dsp/json_builder.h
+*.cpp
+FX Testing Rig/patchers/FX_20Testing_20Rig.h
+.DS_Store
