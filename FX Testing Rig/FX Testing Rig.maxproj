@@ -2,7 +2,7 @@
 	"name" : "FX Testing Rig",
 	"version" : 1,
 	"creationdate" : 3690888496,
-	"modificationdate" : 3690983765,
+	"modificationdate" : 3794681893,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 0,
 	"hideprojectwindow" : 0,
@@ -29,6 +29,10 @@
 		}
 ,
 		"media" : 		{
+			"RATLab.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
 
 		}
 ,
@@ -56,5 +60,6 @@
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 0
+	"viewmode" : 0,
+	"includepackages" : 0
 }
