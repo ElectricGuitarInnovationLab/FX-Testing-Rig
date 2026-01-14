@@ -66,3 +66,10 @@ Once all of the above steps are completed, you can compile code to the Daisy har
    - The C++ code is also exported to the folder <code>FX Testing Rig⁩>⁨patchers⁩</code> and contains 1) a .h file, 2) a .cpp file, and 3) a folder labeled gen_dsp
 <br>
 Consult https://github.com/electro-smith/DaisyWiki/wiki/1e.-Getting-Started-With-Oopsy-(Gen~-Integration)  for troubleshooting.
+
+
+## Contributing
+
+Navigate to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+
+Music, audio, and other creative works produced using the FX Testing Rig are not considered Contributions and remain the sole property of their creators.
