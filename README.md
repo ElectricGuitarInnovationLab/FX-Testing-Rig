@@ -1,4 +1,6 @@
-# FX-Testing-Rig
+# FX Testing Rig
+[![FX Testing Rig Crash Course](https://img.youtube.com/vi/NbGsRf5l9Us/0.jpg)](https://www.youtube.com/watch?v=NbGsRf5l9Us)
+
 Developed by the Electric Guitar Innovation Lab (http://electricguitarinnovationlab.org/pedal) and is available through this Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license:  https://creativecommons.org/licenses/by-nc-nd/4.0/ 
 
 ## Requirements:
@@ -64,3 +66,10 @@ Once all of the above steps are completed, you can compile code to the Daisy har
    - The C++ code is also exported to the folder <code>FX Testing Rig⁩>⁨patchers⁩</code> and contains 1) a .h file, 2) a .cpp file, and 3) a folder labeled gen_dsp
 <br>
 Consult https://github.com/electro-smith/DaisyWiki/wiki/1e.-Getting-Started-With-Oopsy-(Gen~-Integration)  for troubleshooting.
+
+
+## Contributing
+
+Navigate to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+
+Music, audio, and other creative works produced using the FX Testing Rig are not considered Contributions and remain the sole property of their creators.
