@@ -1,7 +1,7 @@
 # FX Testing Rig
 [![FX Testing Rig Crash Course](https://img.youtube.com/vi/NbGsRf5l9Us/0.jpg)](https://www.youtube.com/watch?v=NbGsRf5l9Us)
 
-Developed by the Electric Guitar Innovation Lab (http://electricguitarinnovationlab.org/pedal) and is available through this Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license:  https://creativecommons.org/licenses/by-nc-nd/4.0/ 
+Developed by the Electric Guitar Innovation Lab (http://electricguitarinnovationlab.org/pedal). 
 
 ## Requirements:
 - Download and install Max 8 or later
